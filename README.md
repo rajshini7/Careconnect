@@ -155,7 +155,7 @@ By employing this feature, Care Connect ensures that users receive appropriate s
 
 
 ## Contact Information
-- For questions or inquiries or ideas, contact [Pranshu Gupta](mailto:gpranshu482@gmail.com).
+- For questions or inquiries or ideas, contact [Rajeev S](mailto:rajeevyash03@gmail.com).
 
 
 
