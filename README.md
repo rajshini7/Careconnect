@@ -32,7 +32,7 @@ The project is built using JavaScript, Node.js,Python and Flask. It utilizes Goo
 
 ## Installation
 1. Clone the repository to your local machine using the following command:
-   git clone https://github.com/pranshugupta01/CareConnect.git
+   git clone (https://github.com/rajshini7/Careconnect.git)
 
 2. Navigate to the project directory:
    cd CareConnect
